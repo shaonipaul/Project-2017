@@ -1,0 +1,12 @@
+controller\CourseServlet.class
+model\OnlineStatus.class
+controller\OnlineStatusServlet.class
+dao\CourseDAO.class
+controller\RegisterServlet.class
+model\Util.class
+service\ChatMessageEncoder.class
+dao\DbConnection.class
+controller\WsServer.class
+dao\RegisterDao.class
+service\ChatMessageDecoder.class
+model\ChatMessage.class
